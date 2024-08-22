@@ -20,8 +20,8 @@ This Django application fetches real-time weather data from a public API, proces
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/django-weather-app.git
-   cd django-weather-app
+   git clone https://github.com/avis-p/weather_project
+   cd weather_project
 
 ## Create a virtual environment and activate it:
 
